@@ -48,7 +48,7 @@ Support;
  -
 
 <p align="center"><img width="550" height="200" src="images/Native_OS.JPG"></p>
-<p align="center"><img width="550" height="200" src="images/SMOT_OS.JPG"></p>
+<p align="center"><img width="550" height="200" src="images/SMOTE_OS.JPG"></p>
 <p align="center"><img width="550" height="200" src="images/US.JPG"></p>
 <p align="center"><img width="550" height="200" src="images/Combo_OS_US.JPG"></p>
 <p align="center"><img width="400" height="350" src="images/Bal_Forest.JPG"></p>
